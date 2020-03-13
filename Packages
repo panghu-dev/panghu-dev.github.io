@@ -1,11 +1,11 @@
-Package: com.hongv.test
+Package: panghu
 Section: System
-Maintainer: 红V
+Maintainer: samgisaninja
 Architecture: iphoneos-arm
-Filename: ./deb_files/com.hongv.test.deb
-Version: 1.0
+Filename: ./deb_files/com.samgisaninja.successionrestore_1.3.8_iphoneos-arm .deb
+Vesion: 1.3.8
 Depends: firmware (>= 99.0)
-Description: 此安装包是空包，请勿安装。
-Name: 测试包
+Description: 平刷插件
+Name: Succession
 Author: 红V
 Md5sum: bd9b8809cda7e57e78ab1e3ae5de3b04
